@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Rayner Dcunha - Computer Engineering Co-Op at the University of Alberta. Builds with Python, SQL, Kotlin, React, JavaScript, Node.js and FastAPI. Live to learn." width="100%">
+  <img src="header.svg" alt="Rayner Dcunha - Computer Engineering Co-Op at the University of Alberta. Builds with Python, SQL, Kotlin, React, JavaScript, Node.js and FastAPI. Live to learn." width="100%">
 </p>
 
 <p align="center">
