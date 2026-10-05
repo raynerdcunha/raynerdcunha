@@ -26,6 +26,9 @@
 ![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=58A6FF)
 ![VHDL](https://img.shields.io/badge/VHDL-0D1117?style=flat-square&logoColor=58A6FF)
 ![Neo4j](https://img.shields.io/badge/Neo4j-0D1117?style=flat-square&logo=neo4j&logoColor=58A6FF)
+![GSAP](https://img.shields.io/badge/GSAP-0D1117?style=flat-square&logo=greensock&logoColor=58A6FF)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=58A6FF)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-0D1117?style=flat-square&logo=googleappsscript&logoColor=58A6FF)
 
 ## Connect
 
@@ -33,3 +36,4 @@
 <a href="https://www.linkedin.com/in/raynerdcunha"><img src="https://img.shields.io/badge/LINKEDIN-raynerdcunha-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"></a>
 <a href="https://discord.com/users/760515043988865064"><img src="https://img.shields.io/badge/DISCORD-raynerdcunha-0D1117?style=flat-square&logo=discord&logoColor=58A6FF" alt="Discord"></a>
 <a href="https://leetcode.com/u/raynerdcunha/"><img src="https://img.shields.io/badge/LEETCODE-raynerdcunha-0D1117?style=flat-square&logo=leetcode&logoColor=58A6FF" alt="LeetCode"></a>
+<a href="https://raynerdcunha.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-raynerdcunha-0D1117?style=flat-square&logo=vercel&logoColor=58A6FF" alt="Portfolio"></a>
